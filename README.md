@@ -1,0 +1,1 @@
+I am Guilherme Mir (also known as Guilherme Estima Mir). I live in the city of Curitiba, Brazil and work with web and TV post-production as a video editor. Also I am a web enthusiast who is studying aiming becoming a future developer. Feel free to reach out to me at guilherme.mir@gmail.com
