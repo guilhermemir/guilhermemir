@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://i.imgur.com/0OfyDjT.png" alt="GitHub Card" style="max-width: 100%;">
+<img align="right" height="590em" src="https://i.imgur.com/HvL3qpa.png" alt="GitHub Card" style="max-width: 100%;">
 
 # Guilherme Mir
 
@@ -6,7 +6,7 @@
 I'm a <strong>Web Developer</strong> focused on FrontEnd technologies, <strong>looking for an opportunity to work in the area</strong>. I studied Cinema and Audio-visual (Faculdade de Artes do Paraná/UNESPAR) and worked with video editing and motion design, providing services to several production companies and agencies.
 </p>
 
-🎯 Skills: **HTML, CSS, JavaScript, NodeJS and Ruby on Rails**.
+🎯 Skills: **HTML, CSS, JavaScript, React and NodeJS**.
 
 💼 Portfolio: <a href="https://guilhermemir.com" target="_blank">guilhermemir.com
 
