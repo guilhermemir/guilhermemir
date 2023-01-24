@@ -1,14 +1,16 @@
-<img align="right" height="590em" src="https://i.imgur.com/HvL3qpa.png" alt="GitHub Card" style="max-width: 100%;">
+<img align="right" height="590em" src="https://i.imgur.com/AoR0kjk.png" alt="GitHub Card" style="max-width: 100%;">
 
 # Guilherme Mir
 
 <p align="justify">
-I'm a <strong>Web Developer</strong> focused on FrontEnd technologies, <strong>looking for an opportunity to work in the area</strong>. I studied Cinema and Audio-visual (Faculdade de Artes do Paraná/UNESPAR) and worked with video editing and motion design, providing services to several production companies and agencies.
+I'm a <strong>Web Developer</strong> focused on FrontEnd technologies. Before starting my recent journey as a Dev, I studied Cinema and Audio-visual (Faculty of Arts of Paraná/UNESPAR) and worked with video editing and motion design, providing services to several production companies and agencies.
 </p>
 
-🎯 Skills: **HTML, CSS, JavaScript, React and NodeJS**.
+🎯 Skills: **HTML | CSS | Tailwind | JavaScript | Ruby on Rails | Git/GitHub**.
 
 💼 Portfolio: <a href="https://guilhermemir.com" target="_blank">guilhermemir.com
+
+📄 Resume: <a href="https://docs.google.com/document/d/e/2PACX-1vTyrkLC20e3I3m0P7c0C5qOI-18q8Z5CFkXilU-0RQ3OwAn6j4c06Z23DHk63BlkU-PzwQPVvrKKRGL/pub" target="_blank">PDF
 
 <br><br>
 
